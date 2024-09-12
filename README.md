@@ -1,4 +1,4 @@
-HR-Analytics-project
+HR-Analytics-project :
 The primary objective of this project is to help an organization to improve employee performance and improve employee retention (reduce attrition) by creating a HR Analytics dashboard.
 
 Tools used: Microsoft Excel, Microsoft Power BI
